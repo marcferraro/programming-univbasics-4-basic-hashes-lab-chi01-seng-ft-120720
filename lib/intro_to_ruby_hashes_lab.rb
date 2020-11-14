@@ -1,5 +1,5 @@
 def new_hash
-  my_hash = {}
+  hash_browns = {}
 end
 
 def my_hash
